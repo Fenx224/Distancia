@@ -4,7 +4,9 @@ using namespace std;
 
 int main(){
     int x1,x2,y1,y2,r;
+    cout<<"Programa para calcular 2 puntos"<<endl;
     cout<<"introduce los datos de x1 y x2 respectivamente"<<endl;
+    cout<<"Autor Fenx"<<endl;
     cout<<"x1:"<<endl;
     cin>>x1;
     cout<<"x2:"<<endl;
